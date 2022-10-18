@@ -1,2 +1,2 @@
 # cv
-This is a cv of Sunbeam Rahman
+This is a CV of Sunbeam Rahman
